@@ -67,8 +67,8 @@
         <mxCell id="6LBxeDQgSLJ-Q4UMA3kP-20" value="书房&lt;div&gt;主卧&lt;/div&gt;&lt;div&gt;垃圾桶&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="430" y="350" width="40" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zSk09bSFv5ajrGUwaBbc-2" value="漱口杯&lt;div&gt;刷牙杯&lt;/div&gt;&lt;div&gt;喝水杯&lt;/div&gt;&lt;div&gt;牙刷&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="555" y="350" width="50" height="80" as="geometry" />
+        <mxCell id="zSk09bSFv5ajrGUwaBbc-2" value="&lt;div&gt;年年刷牙四件套：&lt;/div&gt;漱口杯&lt;div&gt;刷牙杯&lt;/div&gt;&lt;div&gt;喝水杯&lt;/div&gt;&lt;div&gt;牙刷&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="350" width="60" height="100" as="geometry" />
         </mxCell>
         <mxCell id="zSk09bSFv5ajrGUwaBbc-3" value="下水道口疏通" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="350" width="30" height="60" as="geometry" />
